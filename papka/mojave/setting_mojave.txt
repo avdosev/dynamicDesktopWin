@@ -1,7 +1,7 @@
 C:\papka\mojave\
 mojave_dynamic_
 .jpeg
-16
+20
 2.33
 1
 420000
